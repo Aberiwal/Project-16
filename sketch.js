@@ -89,7 +89,7 @@ function draw() {
   
     //code to play cycle bell sound
   if(keyDown("space")) {
-    cycleBell.play();
+    //soundcycleBell.play();
   }
   
   //creating continous opponent players
